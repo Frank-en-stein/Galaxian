@@ -602,3 +602,4 @@ void reshape(int w, int h)
     gluOrtho2D(0.0, width, 0.0, height);
     glMatrixMode(GL_MODELVIEW);
 }
+
